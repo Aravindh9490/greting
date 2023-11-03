@@ -1,0 +1,19 @@
+.img {
+  width: 200px;
+}
+.btn {
+  margin: 5px;
+}
+.red-btn {
+  color: brown;
+  border: 2px solid brown;
+  border-radius: 24px;
+  padding: 10px;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+
+.bg-btn {
+  background-color: brown;
+  color: #ffffff;
+}
